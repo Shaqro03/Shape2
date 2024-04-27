@@ -1,0 +1,14 @@
+C:\Users\Armine\source\repos\Shape2\Shape2\bin\Debug\net8.0\Shape2.exe
+C:\Users\Armine\source\repos\Shape2\Shape2\bin\Debug\net8.0\Shape2.deps.json
+C:\Users\Armine\source\repos\Shape2\Shape2\bin\Debug\net8.0\Shape2.runtimeconfig.json
+C:\Users\Armine\source\repos\Shape2\Shape2\bin\Debug\net8.0\Shape2.dll
+C:\Users\Armine\source\repos\Shape2\Shape2\bin\Debug\net8.0\Shape2.pdb
+C:\Users\Armine\source\repos\Shape2\Shape2\obj\Debug\net8.0\Shape2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armine\source\repos\Shape2\Shape2\obj\Debug\net8.0\Shape2.AssemblyInfoInputs.cache
+C:\Users\Armine\source\repos\Shape2\Shape2\obj\Debug\net8.0\Shape2.AssemblyInfo.cs
+C:\Users\Armine\source\repos\Shape2\Shape2\obj\Debug\net8.0\Shape2.csproj.CoreCompileInputs.cache
+C:\Users\Armine\source\repos\Shape2\Shape2\obj\Debug\net8.0\Shape2.dll
+C:\Users\Armine\source\repos\Shape2\Shape2\obj\Debug\net8.0\refint\Shape2.dll
+C:\Users\Armine\source\repos\Shape2\Shape2\obj\Debug\net8.0\Shape2.pdb
+C:\Users\Armine\source\repos\Shape2\Shape2\obj\Debug\net8.0\Shape2.genruntimeconfig.cache
+C:\Users\Armine\source\repos\Shape2\Shape2\obj\Debug\net8.0\ref\Shape2.dll
